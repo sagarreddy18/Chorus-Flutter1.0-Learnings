@@ -1,0 +1,66 @@
+final items = [
+  {
+    'id': '0',
+    'category': 'Tiffins',
+    'title': 'Idli (3 Pieces)',
+    'price': 40,
+    'imageUrl': 'assets/images/idli.jpg',
+  },
+  {
+    'id': '1',
+    'category': 'Tiffins',
+    'title': 'Idli Vada',
+    'price': 40,
+    'imageUrl': 'assets/images/idlivada.jpg',
+  },
+  {
+    'id': '2',
+    'category': 'Tiffins',
+    'title': 'Amras Puri (6 Pieces)',
+    'price': 120,
+    'imageUrl': 'assets/images/amraspuri.jpg',
+  },
+  {
+    'id': '3',
+    'category': 'Tiffins',
+    'title': 'Plain Dosa',
+    'price': 35,
+    'imageUrl': 'assets/images/plaindosa.jpg',
+  },
+  {
+    'id': '4',
+    'category': 'Tiffins',
+    'title': 'Masala Dosa',
+    'price': 60,
+    'imageUrl': 'assets/images/masaladosa.jpg',
+  },
+  {
+    'id': '5',
+    'category': 'Tiffins',
+    'title': 'Pesarattu',
+    'price': 80,
+    'imageUrl': 'assets/images/pesarattu.jpg',
+  },
+  {
+    'id': '6',
+    'category': 'Tiffins',
+    'title': 'Uthappa (2 Pieces)',
+    'price': 60,
+    'imageUrl': 'assets/images/uthapa.jpg',
+  },
+  {
+    'id': '7',
+    'category': 'Tiffins',
+    'title': 'Vada',
+    'price': 40,
+    'imageUrl': 'assets/images/vada.jpg',
+  },
+  {
+    'id': '8',
+    'category': 'Tiffins',
+    'title': 'Rava Dosa',
+    'price': 60,
+    'imageUrl': 'assets/images/Ravadosa.jpg',
+  },
+];
+
